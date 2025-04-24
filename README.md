@@ -43,10 +43,11 @@ git clone https://github.com/NicoleTrujillano/App-FURIA.git
 ```
 Chatbot-FURIA/
 ├── src/
-│   └── ChatFuriaGUI.java
-├── imagens/
-│   └── furia_logo.png
-└── README.md
+├── Fan.java                   // Classe com dados do fã
+├── FanRegistrationFrame.java // Tela de cadastro
+├── QuizFrame.java            // Tela com o quiz
+├── DashboardFrame.java       // Tela final de resultados
+└── Main.java                 // Inicializa a aplicação
 ```
 
 ---
