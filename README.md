@@ -1,4 +1,4 @@
-# 💥 App FURIA - Know Your Fan
+# 💥 App FURIA - 🧠 Challenge #2 - Know Your Fan
 
 Um aplicativo com interface gráfica em Java que interage com fãs da FURIA, realiza um quiz e apresenta uma dashboard com os dados coletados.
 
