@@ -64,10 +64,11 @@ Nicole Trujillano
 FURIA - Know Your Fan is a Java desktop application with a graphical interface that allows fans of the Brazilian esports organization FURIA to interact through a quiz and view a personalized dashboard.
 
 Features:
-
+```
 ✅ User registration screen (name + favorite team)
 ✅ Quiz with 3 questions about FURIA
 ✅ Automatic score calculation
 ✅ Final dashboard showing fan details and score
+```
 
 Built for Challenge #2 - Know Your Fan by FURIA.
