@@ -65,12 +65,9 @@ FURIA - Know Your Fan is a Java desktop application with a graphical interface t
 
 Features:
 
-User registration screen (name + favorite team)
-
-Quiz with 3 questions about FURIA
-
-Automatic score calculation
-
-Final dashboard showing fan details and score
+✅ User registration screen (name + favorite team)
+✅ Quiz with 3 questions about FURIA
+✅ Automatic score calculation
+✅ Final dashboard showing fan details and score
 
 Built for Challenge #2 - Know Your Fan by FURIA.
