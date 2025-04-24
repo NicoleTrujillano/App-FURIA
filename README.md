@@ -48,21 +48,6 @@ git clone https://github.com/NicoleTrujillano/App-FURIA.git
 
 ---
 
-## 📂 Estrutura do Projeto
-```
-Chatbot-FURIA/
-├── src/
-├── Fan.java                   // Classe com dados do fã
-├── FanRegistrationFrame.java // Tela de cadastro
-├── QuizFrame.java            // Tela com o quiz
-├── DashboardFrame.java       // Tela final de resultados
-└── Main.java                 // Inicializa a aplicação
-├── README.md
-└──instrucoes de uso.md
-```
-
----
-
 
 ## ✍️ Autora
 Nicole Trujillano
