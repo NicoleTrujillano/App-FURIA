@@ -26,26 +26,31 @@ Este projeto faz parte do **Challenge #2 - Know Your Fan** da [FURIA](https://ww
 ## 🚀 Como executar
 
 ### Pré-requisitos
-- Java JDK 8 ou superior
-- IDE recomendada: IntelliJ IDEA ou Eclipse
+- Java 8 ou superior
+- Eclipse ou qualquer IDE Java
 
-- ## 📂 Como rodar o projeto localmente
+### Passos
+1. Clone o repositório:
+```bash
+git clone https://github.com/NicoleTrujillano/App-FURIA.git
+```
+2. Abra o projeto na sua IDE (Eclipse recomendado)
+3. Compile e execute a classe `Main.java`
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/NicoleTrujillano/App-FURIA.git
+---
+
+## 📂 Estrutura do Projeto
+```
+Chatbot-FURIA/
+├── src/
+│   └── ChatFuriaGUI.java
+├── imagens/
+│   └── furia_logo.png
+└── README.md
+```
 
 ---
 
-##🧩 Estrutura do Projeto
-📁 src/
-├── Fan.java                   // Classe com dados do fã
-├── FanRegistrationFrame.java // Tela de cadastro
-├── QuizFrame.java            // Tela com o quiz
-├── DashboardFrame.java       // Tela final de resultados
-└── Main.java                 // Inicializa a aplicação
-
----
 
 ##👨‍💻 Desenvolvedora
 Nicole Trujillano
