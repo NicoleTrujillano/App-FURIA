@@ -27,6 +27,9 @@ Este projeto faz parte do **Challenge #2 - Know Your Fan** da [FURIA](https://ww
 ## 🎬 Demonstração
 📹 Vídeo de demonstração: https://youtu.be/XSaT_hbiSz4
 
+📄 Documentação detalhada com instruções de uso:
+➡️ `instrucoes-de-uso.md`
+
 ---
 
 ## 🚀 Como executar
