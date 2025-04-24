@@ -15,7 +15,7 @@ Este projeto faz parte do **Challenge #2 - Know Your Fan** da [FURIA](https://ww
 
 ---
 
-## 🎬 Demonstração
+## 📸 Captura de Tela
 
 ![image](https://github.com/user-attachments/assets/477cfc21-deef-47c0-b508-0e091ba8356e)  
 ![image](https://github.com/user-attachments/assets/ec267752-6f13-4a21-aecc-0682fb3a2639)  
