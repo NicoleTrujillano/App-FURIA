@@ -48,6 +48,7 @@ Chatbot-FURIA/
 ├── QuizFrame.java            // Tela com o quiz
 ├── DashboardFrame.java       // Tela final de resultados
 └── Main.java                 // Inicializa a aplicação
+└── README.md
 ```
 
 ---
