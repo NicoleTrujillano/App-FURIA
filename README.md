@@ -27,9 +27,6 @@ Este projeto faz parte do **Challenge #2 - Know Your Fan** da [FURIA](https://ww
 ## 🎬 Demonstração
 📹 Vídeo de demonstração: https://youtu.be/XSaT_hbiSz4
 
-📄 Documentação detalhada com instruções de uso:
-➡️ `instrucoes-de-uso.md`
-
 ---
 
 ## 🚀 Como executar
@@ -48,6 +45,47 @@ git clone https://github.com/NicoleTrujillano/App-FURIA.git
 
 ---
 
+## 👣 Passo a Passo de Uso
+
+### 1. Tela de Cadastro (FanRegistrationFrame)
+
+- O usuário digita seu **nome** e seleciona seu **jogo favorito** a partir de uma lista.  
+- Após preencher, clica em **"Próximo"** para ir ao quiz.
+
+---
+
+### 2. Tela de Quiz (QuizFrame)
+
+- O app apresenta **três perguntas de múltipla escolha** relacionadas ao time FURIA.  
+- O usuário escolhe a resposta correta para cada pergunta.  
+- Após responder as 3 perguntas, clica em **"Enviar Resposta"**.
+
+---
+
+### 3. Tela de Resultados (DashboardFrame)
+
+- Exibe os dados coletados:
+  - Nome do fã  
+  - Time favorito  
+  - Pontuação obtida no quiz  
+- Mostra uma mensagem de agradecimento ou incentivo dependendo da pontuação.
+
+---
+
+## 🧠 Observações
+
+- Cada pergunta correta vale **10 ponto**.  
+- A pontuação máxima é **30 pontos**.  
+- O app pode ser adaptado facilmente para incluir mais perguntas ou funcionalidades.
+
+---
+
+## 🧪 Testes e Personalização
+
+- Você pode editar as perguntas diretamente no arquivo `QuizFrame.java`.  
+- Para adicionar novas funcionalidades (como salvar os dados ou enviar para uma API), recomenda-se criar um novo método ou classe auxiliar.
+
+---
 
 ## ✍️ Autora
 Nicole Trujillano
